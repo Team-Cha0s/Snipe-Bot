@@ -5,7 +5,7 @@ This is a bot that me and [MarwanYx](https://github.com/Marwanyx) have been work
 
 A list of cogs, commands, and descriptions:
 
-[Snipe](#Snipe), [SnipeEdit](#SnipeEdit), [SnipeCat](#SnipeCat), [SnipeDog](#SnipeDog), [SnipeC](#SnipeDog), [Avatar](#Avatar), [Commands](Commands), [Clear](Clear) 
+[Snipe](#Snipe), [SnipeEdit](#SnipeEdit), [SnipeCat](#SnipeCat), [SnipeDog](#SnipeDog), [SnipeTT](#TTSnipe), [Avatar](#Avatar), [Commands](Commands), [Clear](Clear) 
 
 ## Snipe
 	  .snipe 
@@ -31,4 +31,3 @@ A list of cogs, commands, and descriptions:
 ## Clear
 	  .clear (amount)
 	   └─ Purges the channel where used if no argument is given by deafult it will delete the most recent 5 messages
-	   
