@@ -1,0 +1,8 @@
+ffmpeg
+discord
+youtube_dl
+asyncio
+pytz
+datetime
+requests
+bs4
