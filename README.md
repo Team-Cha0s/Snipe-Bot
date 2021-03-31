@@ -1,5 +1,5 @@
 # SnipeBot
-This is a bot that me and [MarwanYx](https://github.com/Marwanyx) have been working on, it's main purpose is to snipe for random information that might intrest users. Here is the [Invite Link](https://discord.com/api/oauth2/authorize?client_id=821083711259934782&permissions=8&scope=bot).
+This is a bot that me and [MarwanYx](https://github.com/Marwanyx) have been working on, it's main purpose is to snipe for random information that might intrest users. Here is the [Invite Link](https://discord.com/api/oauth2/authorize?client_id=821083711259934782&permissions=8&scope=bot)
 
 # Command List
 
