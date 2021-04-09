@@ -15,7 +15,7 @@ import random
 from youtubesearchpython import *
 
 
-fortnite = Fortnite('e5e90256-cab0-4f9b-ac74-1f60d8a42c41')
+fortnite = Fortnite('REDACTED')
 
 f = open("TOKEN.txt", "r")
 
@@ -189,7 +189,7 @@ async def twitter(ctx, param):
 @bot.command(name = 'fortniteStats', aliases=['FN'])
 async def forniteIS(ctx, platform, *, username):
     URL = 'https://api.fortnitetracker.com/v1/profile/' + platform + '/' + username
-    req = requests.get(URL, headers={"TRN-Api-Key": 'e5e90256-cab0-4f9b-ac74-1f60d8a42c41'})
+    req = requests.get(URL, headers={"TRN-Api-Key": 'REDACTED'})
     try:
         lifetime_stats = req.json()['lifeTimeStats']
         res = lifetime_stats[7:]
